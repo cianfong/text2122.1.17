@@ -1,0 +1,99 @@
+<!doctype html>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>blog - Running</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<link rel="stylesheet" type="text/css" href="css/mobile.css">
+	<script src="js/mobile.js" type="text/javascript"></script>
+</head>
+<body>
+	<div id="page">
+		<div id="header">
+			<div id="navigation">
+				<span id="mobile-navigation">&nbsp;</span>
+				<a href="index.html" class="logo"><img src="火箭隊隊徽.png" alt=""></a>
+				<ul id="menu">
+					<li>
+						<a href="index.html">火箭隊</a>
+					</li>
+					<li>
+						<a href="about.html">關於我們</a>
+					</li>
+					<li>
+						<a href="running.html">設計團隊</a>
+						<ul>
+							<li>
+								<a href="runningsinglepost.html">Running single post</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="blog.html">成員資訊</a>
+						<ul>
+							<li>
+								<a href="blogsinglepost.html">blog single post</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="contact.html">聯絡我們</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div id="body">
+			<div>
+				<h1>成員資訊</h1>
+				<ul>
+					<li>
+						<img src="板木老大.png" alt="">
+						<div>
+							<h1>阪木老大</h1>
+							<p>阪木非常冷靜，在戰鬥中亦是如此。阪木很少出現，但他的手下會想起他給他們的權力而去努力地完成任務。幾乎沒有人知道阪木的過去，他的母親曾是火箭隊的老大，而且阪木非常尊敬他的母親...</p>
+							<a href="https://wiki.52poke.com/wiki/坂木" class="more" target="_blank">瞭解更多</a>
+						</div>
+					</li>
+					<li>
+						<img src="武藏.png" alt="">
+						<div>
+							<h1>武藏</h1>
+							<p>武藏的母親宮本曾經是某位火箭隊頭目的助理。宮本在二十歲時去某個地方尋找夢幻，從此再無音訊。當時的武藏只有五歲，武藏在宮本去南美前被貧窮家庭收養，當她因為缺乏食物別無選擇的時候，只能用雪做的料理來填飽肚子。...</p>
+							<a href="https://wiki.52poke.com/wiki/武藏" class="more" target="_blank">瞭解更多</a>
+						</div>
+					</li>
+					<li>
+						<img src="小次郎.png" alt="">
+						<div>
+							<h1>小次郎</h1>
+							<p>，小次郎出生於一個百萬富翁的家庭，小次郎的父母想讓小次郎成為一位有用的人才，為小次郎請來了23個私人教師，每天教小次郎讀書、禮儀、小提琴和鋼琴，但小次郎從小最討厭的就是那種連拿一根湯匙都要注意禮節的上流社會的生活。日子久了，小次郎便開始厭倦，常常逃課到別處玩。...</p>
+							<a href="https://wiki.52poke.com/wiki/小次郎" class="more">瞭解更多</a>
+						</div>
+					</li>
+					<li>
+						<img src="喵喵.png" alt="">
+						<div>
+							<h1>喵喵</h1>
+							<p>喵喵是火箭隊的成員，同時也是火箭隊的寶可夢。它會說人類語言，也可以聽懂所有神奇寶貝的話並及時翻譯。...</p>
+							<a href="https://wiki.52poke.com/wiki/喵喵（火箭队）" class="more">瞭解更多</a>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div id="footer">
+			<div>
+				<div class="connect">
+					<a href="http://twitter.com/share?original_referer=https://sagaprise.jp/teamrocket/&text=%e3%83%90%e3%83%ab%e3%83%bc%e3%83%b3%e3%83%95%e3%82%a7%e3%82%b9%e3%82%bf%e3%81%ab%e3%83%8b%e3%83%a3%e3%83%bc%e3%82%b9%e6%b0%97%e7%90%83%e8%a5%b2%e6%9d%a5%ef%bc%81%e4%bd%90%e8%b3%80%e7%9c%8c%e3%81%a7%e3%83%ad%e3%82%b1%e3%83%83%e3%83%88%e5%9b%a3%e5%93%a1%e5%8b%9f%e9%9b%86%e4%b8%ad%ef%bc%81%ef%bc%81&url=https://sagaprise.jp/teamrocket/&hashtags=佐賀,ロケット団" class="twitter">twitter</a>
+					<a href="http://www.facebook.com/share.php?u=https://sagaprise.jp/teamrocket/">facebook</a>
+					<a href="https://www.google.com/search?q=佐賀県がロケット団員を募集" class="googleplus">googleplus</a>
+					<a href="http://pinterest.com/fwtemplates/" class="pinterest">pinterest</a>
+				</div>
+				<p>&copy;Pokémon</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
