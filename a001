@@ -1,0 +1,78 @@
+<!doctype html>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<link href="https://tauhu.tw/tauhu-oo.css" rel="stylesheet">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>running - Running</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<link rel="stylesheet" type="text/css" href="css/mobile.css">
+	<script src="js/mobile.js" type="text/javascript"></script>
+</head>
+
+<style type="text/css">
+	body{
+		font-family: tauhu-oo, PingFangTC-Regular, "Microsoft JhengHei", sans-serif;
+	}
+
+</style>
+
+<body>
+	<div id="page">
+		<div id="header">
+			<div id="navigation">
+				<span id="mobile-navigation">&nbsp;</span>
+				<a href="index.html" class="logo"><img src="火箭隊隊徽.png" alt=""></a>
+				<ul id="menu">
+					<li>
+						<a href="index.html">火箭隊</a>
+					</li>
+					<li>
+						<a href="about.html">關於我們</a>
+					</li>
+					<li>
+						<a href="running.html">設計團隊</a>
+						<ul>
+							<li>
+								<a href="runningsinglepost.html">Running single post</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="blog.html">成員資訊</a>
+						<ul>
+							<li>
+								<a href="blogsinglepost.html">blog single post</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="contact.html">聯絡我們</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div id="body" class="running">
+			<div>
+				<h1>製作者</h1>
+				
+				<h3><span>林家頡</span></h3>
+				
+				<p>㐁㑁㓾㕸㖅㖸㗘㗱㘔㘝㜮㜷㝗㝩㤕㧁㧒㧡㧾㩆㪐㬹㰵㸐㸰㼓㾊㿸䀯䀴䁯䃗䇶䉂䌈䗁䗆䗐䘆䞚䟓䟘䟩䢍䯋个亼倈倲傪凴刣匧却叹吂吓吔咏哊哯唩啉啲喺嗬噍噼嚟圝塠壠嫲尞抺拁挱挷捝揞揢揬摱撆撍撨攋攞敋桊梹溚炣焿煏熻燶疴瘻癧眡着秥稴竳竵篼粩羴肨胮腈膁臽蕒藠虬蝲蟎誐贌跔踭递逩鈪銹錑閕靗𠊎𠎷𠕆𠖄𠗻𠜱𠠃𠠝𠢕𠲿𢎙𢫦𢯭𢱤𢲴𢳆𢳪𢶀𢼛𣛮𣲩𣼎𤊶𤌍𤍒𤐙𤐰𤘅𤞚𤸁𤸱𥉌𥍉𥯟𥯥𥺆𧊅𧩣𧻴𨃰𨅔𨒇𨢑𩚨𩜄𩜰𩼧𪁎𪐞𪖐𪘒𪹚𫝘𫟧𫠛𫣆𬠖󿕅</p>
+			</div>
+		</div>
+		<div id="footer">
+			<div>
+				<div class="connect">
+					<a href="http://twitter.com/share?original_referer=https://sagaprise.jp/teamrocket/&text=%e3%83%90%e3%83%ab%e3%83%bc%e3%83%b3%e3%83%95%e3%82%a7%e3%82%b9%e3%82%bf%e3%81%ab%e3%83%8b%e3%83%a3%e3%83%bc%e3%82%b9%e6%b0%97%e7%90%83%e8%a5%b2%e6%9d%a5%ef%bc%81%e4%bd%90%e8%b3%80%e7%9c%8c%e3%81%a7%e3%83%ad%e3%82%b1%e3%83%83%e3%83%88%e5%9b%a3%e5%93%a1%e5%8b%9f%e9%9b%86%e4%b8%ad%ef%bc%81%ef%bc%81&url=https://sagaprise.jp/teamrocket/&hashtags=佐賀,ロケット団" class="twitter">twitter</a>
+					<a href="http://www.facebook.com/share.php?u=https://sagaprise.jp/teamrocket/">facebook</a>
+					<a href="https://www.google.com/search?q=佐賀県がロケット団員を募集" class="googleplus">googleplus</a>
+					<a href="http://pinterest.com/fwtemplates/" class="pinterest">pinterest</a>
+				</div>
+				<p>&copy;Pokémon</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
