@@ -1,0 +1,80 @@
+<!doctype html>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>contact - Running</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<link rel="stylesheet" type="text/css" href="css/mobile.css">
+	<script src="js/mobile.js" type="text/javascript"></script>
+</head>
+<body>
+	<div id="page">
+		<div id="header">
+			<div id="navigation">
+				<span id="mobile-navigation">&nbsp;</span>
+				<a href="index.html" class="logo"><img src="火箭隊隊徽.png" alt=""></a>
+				<ul id="menu">
+					<li>
+						<a href="index.html">火箭隊</a>
+					</li>
+					<li>
+						<a href="about.html">關於我們</a>
+					</li>
+					<li>
+						<a href="running.html">設計團隊</a>
+						<ul>
+							<li>
+								<a href="runningsinglepost.html">Running single post</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="blog.html">成員資訊</a>
+						<ul>
+							<li>
+								<a href="blogsinglepost.html">blog single post</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="contact.html">聯絡我們</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div id="body" class="contact">
+			<div>
+				<h1>聯絡我們</h1>
+				<img src="火箭队基地.png" alt="">
+				<h2>地址</h2>
+				<p>火箭隊基地位於玉虹市的遊戲城下方。是一個四層的地下建築，它是火箭隊的秘密基地。</p>
+				<h2>電話</h2>
+				<a href="index.html">+123456789 or +123456789</a>
+				<h2>Email</h2>
+				<a href="index.html">info@rnrnr.com</a>
+				<h4>即刻加入</h4>
+				<form action="index.html">
+					<input type="text" name="name" value="Name" onblur="this.value=!this.value?'Name':this.value;" onfocus="this.select()" onclick="this.value='';">
+					<input type="text" name="Address" value="Address" onblur="this.value=!this.value?'Address':this.value;" onfocus="this.select()" onclick="this.value='';">
+					<input type="text" name="Email" value="Email" onblur="this.value=!this.value?'Email':this.value;" onfocus="this.select()" onclick="this.value='';">
+					<textarea name="meassage" cols="50" rows="7">Message</textarea>
+					<input type="submit" value="送出" id="submit">
+				</form>
+			</div>
+		</div>
+		<div id="footer">
+			<div>
+				<div class="connect">
+					<a href="http://twitter.com/share?original_referer=https://sagaprise.jp/teamrocket/&text=%e3%83%90%e3%83%ab%e3%83%bc%e3%83%b3%e3%83%95%e3%82%a7%e3%82%b9%e3%82%bf%e3%81%ab%e3%83%8b%e3%83%a3%e3%83%bc%e3%82%b9%e6%b0%97%e7%90%83%e8%a5%b2%e6%9d%a5%ef%bc%81%e4%bd%90%e8%b3%80%e7%9c%8c%e3%81%a7%e3%83%ad%e3%82%b1%e3%83%83%e3%83%88%e5%9b%a3%e5%93%a1%e5%8b%9f%e9%9b%86%e4%b8%ad%ef%bc%81%ef%bc%81&url=https://sagaprise.jp/teamrocket/&hashtags=佐賀,ロケット団" class="twitter">twitter</a>
+					<a href="http://www.facebook.com/share.php?u=https://sagaprise.jp/teamrocket/">facebook</a>
+					<a href="https://www.google.com/search?q=佐賀県がロケット団員を募集" class="googleplus">googleplus</a>
+					<a href="http://pinterest.com/fwtemplates/" class="pinterest">pinterest</a>
+				</div>
+				<p>&copy;Pokémon</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
